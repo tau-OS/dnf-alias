@@ -1,0 +1,2 @@
+echo "DNF is not available in tauOS"
+echo "To install a RPM package, use rpm-ostree"
